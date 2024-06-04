@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://viturba.github.io/sitemap.html
+Sitemap: https://viturba.github.io/app/sitemap.html
+Sitemap: https://viturba.github.io/assets/sitemap.html
+Sitemap: https://viturba.github.io/includes/sitemap.html
+Sitemap: https://viturba.github.io/src/sitemap.html
